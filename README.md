@@ -1,7 +1,7 @@
 # nxt-main
 Panel DDoS Joker Nó Không Mạnh Nếu Như Bạn không biết sử dụng nó đúng cách :)
 
-Hãy install những thư viện bị thiếu :)
+# Hãy install những thư viện bị thiếu :)
 
 git clone https://github.com/nxtdeptrai207/nxt-main
 cd nxt-main
